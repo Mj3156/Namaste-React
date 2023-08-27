@@ -1,0 +1,6 @@
+#heading {
+  color: red;
+  text-shadow: 1px 3px 8px #be2c2c;
+  transform:scale(0.9);
+  transition: all 3s ease-in-out;
+}
